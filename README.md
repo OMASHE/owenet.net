@@ -2,4 +2,6 @@
 
 This is my Personal website
 
-Just a simple wordpress website, no modifications other than theme
+Just a simple wordpress website https://wordpress.org/
+
+Bjork theme https://wordpress.org/themes/bjork/
